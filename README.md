@@ -1,24 +1,3 @@
-# vue-animals
+Pets management website developped in VueX and Boostrap.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img width="664" alt="vue-pets" src="https://user-images.githubusercontent.com/61420084/111996492-5c5de500-8b1a-11eb-9a1e-41000f55ead9.png">

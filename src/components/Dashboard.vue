@@ -23,7 +23,6 @@
             </div>
             <div class="d-grid">
               <select name="species" class="form-control" v-model="pet.species">
-                <option selected>Spices</option>
                 <option value="Dog">Dog</option>
                 <option value="Cat">Cat</option>
               </select>
