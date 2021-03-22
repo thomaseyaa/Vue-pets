@@ -1,3 +1,3 @@
-Pets management website developped in VueX and Boostrap.
-
-<img width="664" alt="vue-pets" src="https://user-images.githubusercontent.com/61420084/111996492-5c5de500-8b1a-11eb-9a1e-41000f55ead9.png">
+Pets management website developed in Vuex and Bootstrap.
+Demo: http://vue-pets.herokuapp.com
+<img width="913" alt="vue-pets" src="https://user-images.githubusercontent.com/61420084/112018123-9507b980-8b2e-11eb-8c4f-0ab52be22295.png">

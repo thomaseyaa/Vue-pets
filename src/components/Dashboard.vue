@@ -62,7 +62,7 @@ export default {
     addPet() {
       this.pet.id = this.pets + 1;
       this.$store.commit("addPet", this.pet);
-      this.msg.success = 'Your new pet as been added';
+      this.msg.success = 'Your new pet has been added';
     },
     countPets(){
       for (const pet in this.pets) {
